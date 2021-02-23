@@ -18,3 +18,10 @@ The numbers will either go up or down if a counter, if it's a clock there may be
 Timers, Timezones, javascript time methods 
 Databases?, Authentication? 
 
+# User Stories:
+- When I a user first comes to the home page
+  - They see a timer
+  - They can see multiple timers (1 big, a couple smaller ones surrounding it)
+  - Annoymous commenting, live stream commenting
+  - We want th clocks to be interactive (so they can understand what the issue is) (provide more info)
+    - either clickable, tooltip, or modal
